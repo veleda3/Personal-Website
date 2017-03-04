@@ -28,6 +28,9 @@ h1 {
     background-position: center;
     background-attachment: fixed;
     background-size: 500px 600px;
+    text-align: center;
+    border: 1px solid green;
+
 
 }
 p {
