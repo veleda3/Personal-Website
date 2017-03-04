@@ -1,0 +1,68 @@
+banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 400px;  
+}
+/*body {
+    background-image: url("Cuba_pictures/background1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 140px 200px;
+}*/
+
+    
+
+h1 {
+    font-family: 'lobster';
+    font-size: 33px;
+    position: relative;
+    left: 30%;
+    top: 38%;
+}
+.intro {
+    background-image: url("Cuba_pictures/background1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 500px 600px;
+
+}
+p {
+    font-family: 'lobster';
+    color: navy;
+    font-size: 15px;
+    position: relative;
+    left: 30%;
+    top: 38%;
+    width: 40%;
+    height: 38%;
+} 
+img#first {
+    position: relative;
+    left: 30%;
+    top: 50%;
+    width: 40%;
+    height: 40%;
+}
+form { 
+    position: relative;
+    left: 30%;
+    top: 40%;
+   
+}
+h2 { 
+    position: relative;
+    left: 30%;
+    top: 40%;  
+}
+img#instagram { 
+    display: block;
+    margin: 20px 0;
+    left: 0px;
+    top: 630px;
+    width: 40%;
+    height: 400px;
+}
